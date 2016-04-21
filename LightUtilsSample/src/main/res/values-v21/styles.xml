@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="LightUtilsTheme.BaseMaterial.BaseActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppNoActionBarTheme" parent="LightUtilsTheme.BaseMaterial.BaseNoActionBar">
+
+    </style>
+
+    <style name="AppMarerialDrawerTheme" parent="LightUtilsTheme.BaseMaterial.BaseDrawer">
+
+    </style>
+
+</resources>
